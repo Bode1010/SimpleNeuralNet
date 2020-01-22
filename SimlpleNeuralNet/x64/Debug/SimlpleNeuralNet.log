@@ -1,0 +1,41 @@
+﻿  NNet.cpp
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.h(68,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.h(143,30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(23,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(115,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(116,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(223,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(224,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(225,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(226,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(318,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(337,54): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(369,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(388,54): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(442,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(502,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(559,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(595,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(599,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(599,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(708,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(746,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(764,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(776,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(835,1): warning C4010: single-line comment contains line-continuation character
+  SimlpleNeuralNet.cpp
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.h(68,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.h(143,30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(33,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(35,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(36,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(37,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(38,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(39,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(40,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(41,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\SimlpleNeuralNet.cpp(42,1): warning C4010: single-line comment contains line-continuation character
+  Generating Code...
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(84): warning C4715: 'Layer::Activate': not all control paths return a value
+C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\SimlpleNeuralNet\NNet.cpp(95): warning C4715: 'Layer::dActivate': not all control paths return a value
+  SimlpleNeuralNet.vcxproj -> C:\Users\Olabode Ige\source\repos\SimpleNeuralNet\x64\Debug\SimlpleNeuralNet.exe

@@ -1,0 +1,34 @@
+﻿  NNet.cpp
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.h(68,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.h(140,30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(219,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(220,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(221,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(222,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(301,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(325,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(333,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(354,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(360,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(371,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(376,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(384,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(412,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(427,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(472,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(488,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(500,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(515,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(565,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(619,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(655,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(659,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(659,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(712,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(91): warning C4715: 'Layer::dActivate': not all control paths return a value
+C:\Users\olabo\source\repos\SimlpleNeuralNet\SimlpleNeuralNet\NNet.cpp(80): warning C4715: 'Layer::Activate': not all control paths return a value
+  SimlpleNeuralNet.vcxproj -> C:\Users\olabo\source\repos\SimlpleNeuralNet\Debug\SimlpleNeuralNet.exe
